@@ -30,7 +30,7 @@ Provides structured techniques, audit workflows, and reference materials for cra
 ### Via Skills CLI (recommended)
 
 ```bash
-npx skills add CodeAlive-AI/prompt-engineering.md@prompt-engeneering -g -y
+npx skills add CodeAlive-AI/prompt-engineering-skill@prompt-engeneering -g -y
 ```
 
 ### Manual
