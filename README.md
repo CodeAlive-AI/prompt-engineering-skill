@@ -30,22 +30,22 @@ Provides structured techniques, audit workflows, and reference materials for cra
 ### Via Skills CLI (recommended)
 
 ```bash
-npx skills add CodeAlive-AI/prompt-engineering-skill@prompt-engeneering -g -y
+npx skills add CodeAlive-AI/prompt-engineering-skill@prompt-engineering -g -y
 ```
 
 ### Manual
 
-Copy the `prompt-engeneering` directory (containing `SKILL.md` and `references/`) into your agent's skills folder:
+Copy the `prompt-engineering` directory (containing `SKILL.md` and `references/`) into your agent's skills folder:
 
 | Agent | Path |
 |-------|------|
-| Claude Code | `~/.claude/skills/prompt-engeneering/` |
-| Cursor | `~/.cursor/skills/prompt-engeneering/` |
-| Gemini CLI | `~/.gemini/skills/prompt-engeneering/` |
-| Codex | `~/.codex/skills/prompt-engeneering/` |
-| Windsurf | `~/.codeium/windsurf/skills/prompt-engeneering/` |
-| Goose | `~/.config/goose/skills/prompt-engeneering/` |
-| Roo Code | `~/.roo/skills/prompt-engeneering/` |
+| Claude Code | `~/.claude/skills/prompt-engineering/` |
+| Cursor | `~/.cursor/skills/prompt-engineering/` |
+| Gemini CLI | `~/.gemini/skills/prompt-engineering/` |
+| Codex | `~/.codex/skills/prompt-engineering/` |
+| Windsurf | `~/.codeium/windsurf/skills/prompt-engineering/` |
+| Goose | `~/.config/goose/skills/prompt-engineering/` |
+| Roo Code | `~/.roo/skills/prompt-engineering/` |
 
 For the full list of 42 supported agents and their paths, see [skills.sh](https://skills.sh).
 
@@ -60,7 +60,7 @@ Once installed, the skill activates automatically when you ask your agent to:
 - "optimize my instructions"
 - "help me prompt engineer"
 
-Or invoke directly: `/prompt-engeneering`
+Or invoke directly: `/prompt-engineering`
 
 ## License
 

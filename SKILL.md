@@ -1,5 +1,5 @@
 ---
-name: prompt-engeneering
+name: prompt-engineering
 description: Universal prompt engineering techniques for any LLM. Use when crafting, optimizing, or reviewing prompts for AI models. Triggers on requests like "improve this prompt", "write a system prompt", "optimize my instructions", "help me prompt engineer", "audit this prompt", "review my prompt", or when building agentic systems that need structured prompts.
 ---
 
